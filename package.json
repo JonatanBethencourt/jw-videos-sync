@@ -1,0 +1,8 @@
+{
+  "name": "jw-ad-sync",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node tests/roundtrip.mjs"
+  }
+}

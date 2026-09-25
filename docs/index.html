@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Described — audio description in sync</title>
+  <meta name="description" content="Listens to a video playing in the room and plays its audio-described version in sync.">
+  <meta name="theme-color" content="#13254d">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎧</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip" href="#library">Skip to the video list</a>
+  <main>
+    <header>
+      <h1>Described</h1>
+      <p class="intro">Hear the audio-described version of the video playing around you, in sync. Put on headphones, then start.</p>
+    </header>
+
+    <section class="stage" aria-label="Listen and play">
+      <div class="listen" id="listen" data-state="loading">
+        <span class="ring" aria-hidden="true"></span>
+        <button id="toggle" type="button" disabled aria-describedby="status">
+          <span id="toggle-label">Loading…</span>
+        </button>
+      </div>
+
+      <p id="status" class="status" role="status" aria-live="polite">Loading the video library…</p>
+
+      <p class="target" id="target">
+        Looking for: <strong id="target-name">any video</strong>
+        <button type="button" id="target-clear" class="link" hidden>Listen for any video instead</button>
+      </p>
+
+      <div class="sync" id="sync" hidden>
+        <video id="player" playsinline preload="metadata" controls></video>
+        <div class="sync-row">
+          <p class="sync-state" id="sync-state">Checking…</p>
+          <button type="button" id="resync" class="secondary">Resync now</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="library" id="library" aria-labelledby="library-title">
+      <h2 id="library-title">Pick the video yourself</h2>
+      <p class="hint">Optional. If you know what is about to play, choose it here. The app then only listens for that video, so it finds its place faster.</p>
+      <label for="search" class="visually-hidden">Search described videos</label>
+      <input id="search" type="search" placeholder="Search by title or song number" autocomplete="off" aria-controls="results">
+      <p id="result-count" class="hint" aria-live="polite"></p>
+      <ul id="results" class="results"></ul>
+    </section>
+
+    <details class="panel">
+      <summary>Adjust timing and quality</summary>
+      <div class="field">
+        <label for="offset">Timing</label>
+        <p class="hint" id="offset-hint">If the description sounds late compared to the room, move toward “Earlier”. If it sounds early, move toward “Later”.</p>
+        <div class="offset-row">
+          <button type="button" class="step" data-step="-20">Earlier</button>
+          <input id="offset" type="range" min="-600" max="600" step="10" value="0" aria-describedby="offset-hint offset-value">
+          <button type="button" class="step" data-step="20">Later</button>
+        </div>
+        <output id="offset-value" for="offset">0 ms</output>
+      </div>
+      <div class="field">
+        <label for="quality">Video quality</label>
+        <select id="quality">
+          <option value="240p">240p (least data)</option>
+          <option value="360p">360p</option>
+          <option value="480p" selected>480p</option>
+          <option value="720p">720p</option>
+        </select>
+      </div>
+    </details>
+
+    <details class="panel">
+      <summary>How it works</summary>
+      <ol class="how">
+        <li><strong>It listens.</strong> Your phone’s microphone hears the video playing in the room. The sound stays on your phone and is never uploaded.</li>
+        <li><strong>It recognises the video.</strong> Every second it compares the last few seconds of sound with a sound “fingerprint” of each video in the library. When two checks in a row agree, it knows which video is playing and exactly how far in it is.</li>
+        <li><strong>It plays the described version at the same moment.</strong> The audio-described video starts from that point, streamed from jw.org.</li>
+        <li><strong>It stays in sync.</strong> It keeps listening and gently speeds up or slows down to stay with the room. If the video in the room is skipped or changed, it follows. If the room goes quiet for 15 seconds, it pauses and waits.</li>
+      </ol>
+      <p class="hint">Headphones matter: without them the phone hears its own sound. If you use Bluetooth headphones and the timing feels off, use the Timing control.</p>
+    </details>
+  </main>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
