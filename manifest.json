@@ -21420,6 +21420,64 @@
       "original": "https://cfp2.jw-cdn.org/a/ad64b6/1/o/jwbcov_E_201905_19_r144P.3gp",
       "original_title": "Display Unfailing Love in the Ministry",
       "paired_by": "similar title"
+    },
+    {
+      "id": "docid-1112024060_122_VIDEO",
+      "title": "2026 Governing Body Update #6 (With Audio Descriptions)",
+      "ad_source": "https://cfp2.jw-cdn.org/a/4100b83/1/o/1112024060_E_cnt_122_r144P.3gp",
+      "ad_files": [
+        {
+          "label": "144p",
+          "url": "https://cfp2.jw-cdn.org/a/4100b83/1/o/1112024060_E_cnt_122_r144P.3gp"
+        },
+        {
+          "label": "240p",
+          "url": "https://cfp2.jw-cdn.org/a/5a4d45/1/o/1112024060_E_cnt_122_r240P.mp4"
+        },
+        {
+          "label": "360p",
+          "url": "https://cfp2.jw-cdn.org/a/82f326f/1/o/1112024060_E_cnt_122_r360P.mp4"
+        },
+        {
+          "label": "480p",
+          "url": "https://cfp2.jw-cdn.org/a/f9ed93c/1/o/1112024060_E_cnt_122_r480P.mp4"
+        },
+        {
+          "label": "720p",
+          "url": "https://cfp2.jw-cdn.org/a/2b31dbe/1/o/1112024060_E_cnt_122_r720P.mp4"
+        }
+      ],
+      "poster": "https://cms-imgp.jw-cdn.org/img/p/1112024060/univ/art/1112024060_univ_lss_122_lg.jpg",
+      "original": "https://cfp2.jw-cdn.org/a/401e849/1/o/1112024060_E_cnt_1_r144P.3gp",
+      "original_title": "2026 Governing Body Update #6",
+      "paired_by": "similar title"
+    },
+    {
+      "id": "pub-ivfe_101_VIDEO",
+      "title": "Young People Ask—How Can I Make Real Friends? (With Audio Descriptions)",
+      "ad_source": "https://cfp2.jw-cdn.org/a/9e39788/1/o/ivfe_E_101_r144P.3gp",
+      "ad_files": [
+        {
+          "label": "144p",
+          "url": "https://cfp2.jw-cdn.org/a/9e39788/1/o/ivfe_E_101_r144P.3gp"
+        },
+        {
+          "label": "240p",
+          "url": "https://cfp2.jw-cdn.org/a/3672428/1/o/ivfe_E_101_r240P.mp4"
+        },
+        {
+          "label": "360p",
+          "url": "https://cfp2.jw-cdn.org/a/6174837/1/o/ivfe_E_101_r360P.mp4"
+        },
+        {
+          "label": "480p",
+          "url": "https://cfp2.jw-cdn.org/a/9e1817/1/o/ivfe_E_101_r480P.mp4"
+        }
+      ],
+      "poster": "https://cms-imgp.jw-cdn.org/img/p/ivfe/univ/art/ivfe_univ_lss_101_lg.jpg",
+      "original": "https://cfp2.jw-cdn.org/a/a0da56/1/o/ivfe_s-Sub_E_1_r240P.mp4",
+      "original_title": "Young People Ask—How Can I Make Real Friends?",
+      "paired_by": "similar title"
     }
   ],
   "unpaired": [
