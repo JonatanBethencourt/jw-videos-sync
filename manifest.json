@@ -21478,38 +21478,226 @@
       "original": "https://cfp2.jw-cdn.org/a/a0da56/1/o/ivfe_s-Sub_E_1_r240P.mp4",
       "original_title": "Young People Ask—How Can I Make Real Friends?",
       "paired_by": "similar title"
-    }
-  ],
-  "unpaired": [
+    },
     {
-      "id": "pub-sjjm_584_VIDEO",
-      "title": "84. Reaching Out (With Audio Descriptions)",
-      "ad_source": "https://cfp2.jw-cdn.org/a/3a166dd/2/o/sjjm_E_584_r144P.3gp",
+      "id": "pub-jwb-142_102_VIDEO",
+      "title": "Robert Ciranko: Always Focus on Doing God’s Will (With Audio Descriptions)",
+      "ad_source": "https://cfp2.jw-cdn.org/a/ab962ee/1/o/jwb-142_E_102_r144P.3gp",
       "ad_files": [
         {
           "label": "144p",
-          "url": "https://cfp2.jw-cdn.org/a/3a166dd/2/o/sjjm_E_584_r144P.3gp"
+          "url": "https://cfp2.jw-cdn.org/a/ab962ee/1/o/jwb-142_E_102_r144P.3gp"
         },
         {
           "label": "240p",
-          "url": "https://cfp2.jw-cdn.org/a/0bcef7/2/o/sjjm_E_584_r240P.mp4"
+          "url": "https://cfp2.jw-cdn.org/a/e39ef8/1/o/jwb-142_E_102_r240P.mp4"
         },
         {
           "label": "360p",
-          "url": "https://cfp2.jw-cdn.org/a/a41cbd/2/o/sjjm_E_584_r360P.mp4"
+          "url": "https://cfp2.jw-cdn.org/a/cd4fbe/1/o/jwb-142_E_102_r360P.mp4"
         },
         {
           "label": "480p",
-          "url": "https://cfp2.jw-cdn.org/a/beb818/2/o/sjjm_E_584_r480P.mp4"
+          "url": "https://cfp2.jw-cdn.org/a/982381e/1/o/jwb-142_E_102_r480P.mp4"
         },
         {
           "label": "720p",
-          "url": "https://cfp2.jw-cdn.org/a/24b231/2/o/sjjm_E_584_r720P.mp4"
+          "url": "https://cfp2.jw-cdn.org/a/01f4c9c/1/o/jwb-142_E_102_r720P.mp4"
         }
       ],
-      "poster": "https://cms-imgp.jw-cdn.org/img/p/sjjm/univ/art/sjjm_univ_lss_584_lg.jpg",
-      "original": ""
+      "poster": "https://cms-imgp.jw-cdn.org/img/p/jwb-142/univ/art/jwb-142_univ_lss_102_lg.jpg",
+      "original": "https://cfp2.jw-cdn.org/a/1502c3/1/o/jwb-142_E_02_r144P.3gp",
+      "original_title": "Robert Ciranko: Always Focus on Doing God’s Will",
+      "paired_by": "similar title"
     },
+    {
+      "id": "pub-jwb-142_101_VIDEO",
+      "title": "JW Broadcasting—October 2026 (With Audio Descriptions)",
+      "ad_source": "https://cfp2.jw-cdn.org/a/84858a8/1/o/jwb-142_E_101_r144P.3gp",
+      "ad_files": [
+        {
+          "label": "144p",
+          "url": "https://cfp2.jw-cdn.org/a/84858a8/1/o/jwb-142_E_101_r144P.3gp"
+        },
+        {
+          "label": "240p",
+          "url": "https://cfp2.jw-cdn.org/a/4f49c4/1/o/jwb-142_E_101_r240P.mp4"
+        },
+        {
+          "label": "360p",
+          "url": "https://cfp2.jw-cdn.org/a/85a93ca/1/o/jwb-142_E_101_r360P.mp4"
+        },
+        {
+          "label": "480p",
+          "url": "https://cfp2.jw-cdn.org/a/d6fec9/1/o/jwb-142_E_101_r480P.mp4"
+        },
+        {
+          "label": "720p",
+          "url": "https://cfp2.jw-cdn.org/a/67148f7/1/o/jwb-142_E_101_r720P.mp4"
+        }
+      ],
+      "poster": "https://cms-imgp.jw-cdn.org/img/p/jwb-142/univ/art/jwb-142_univ_lss_101_lg.jpg",
+      "original": "https://cfp2.jw-cdn.org/a/5df2b8d/1/o/jwb-142_E_01_r144P.3gp",
+      "original_title": "JW Broadcasting—October 2026",
+      "paired_by": "similar title"
+    },
+    {
+      "id": "pub-jwb-142_104_VIDEO",
+      "title": "A Day in the Life of a Bethel Commuter (With Audio Descriptions)",
+      "ad_source": "https://cfp2.jw-cdn.org/a/6fd3774/1/o/jwb-142_E_104_r144P.3gp",
+      "ad_files": [
+        {
+          "label": "144p",
+          "url": "https://cfp2.jw-cdn.org/a/6fd3774/1/o/jwb-142_E_104_r144P.3gp"
+        },
+        {
+          "label": "240p",
+          "url": "https://cfp2.jw-cdn.org/a/271d2c1/1/o/jwb-142_E_104_r240P.mp4"
+        },
+        {
+          "label": "360p",
+          "url": "https://cfp2.jw-cdn.org/a/85c1ba1/1/o/jwb-142_E_104_r360P.mp4"
+        },
+        {
+          "label": "480p",
+          "url": "https://cfp2.jw-cdn.org/a/306be66/1/o/jwb-142_E_104_r480P.mp4"
+        },
+        {
+          "label": "720p",
+          "url": "https://cfp2.jw-cdn.org/a/8015bf/1/o/jwb-142_E_104_r720P.mp4"
+        }
+      ],
+      "poster": "https://cms-imgp.jw-cdn.org/img/p/jwb-142/univ/art/jwb-142_univ_lss_104_lg.jpg",
+      "original": "https://cfp2.jw-cdn.org/a/9f6fb5/1/o/jwb-142_E_04_r144P.3gp",
+      "original_title": "A Day in the Life of a Bethel Commuter",
+      "paired_by": "similar title"
+    },
+    {
+      "id": "pub-jwb-142_107_VIDEO",
+      "title": "Dig for Treasures—Zechariah (With Audio Descriptions)",
+      "ad_source": "https://cfp2.jw-cdn.org/a/9f301c/1/o/jwb-142_E_107_r144P.3gp",
+      "ad_files": [
+        {
+          "label": "144p",
+          "url": "https://cfp2.jw-cdn.org/a/9f301c/1/o/jwb-142_E_107_r144P.3gp"
+        },
+        {
+          "label": "240p",
+          "url": "https://cfp2.jw-cdn.org/a/03f2b9/1/o/jwb-142_E_107_r240P.mp4"
+        },
+        {
+          "label": "360p",
+          "url": "https://cfp2.jw-cdn.org/a/74b07805/1/o/jwb-142_E_107_r360P.mp4"
+        },
+        {
+          "label": "480p",
+          "url": "https://cfp2.jw-cdn.org/a/c1ab843/1/o/jwb-142_E_107_r480P.mp4"
+        },
+        {
+          "label": "720p",
+          "url": "https://cfp2.jw-cdn.org/a/e3cf5c4/1/o/jwb-142_E_107_r720P.mp4"
+        }
+      ],
+      "poster": "https://cms-imgp.jw-cdn.org/img/p/jwb-142/univ/art/jwb-142_univ_lss_107_lg.jpg",
+      "original": "https://cfp2.jw-cdn.org/a/cf066b/1/o/jwb-142_E_07_r144P.3gp",
+      "original_title": "Dig for Treasures—Zechariah",
+      "paired_by": "similar title"
+    },
+    {
+      "id": "pub-jwb-142_106_VIDEO",
+      "title": "Benjamin and Doris Satlauer: How We Simplified to Focus on God’s Will (With Audio Descriptions)",
+      "ad_source": "https://cfp2.jw-cdn.org/a/346552/1/o/jwb-142_E_106_r144P.3gp",
+      "ad_files": [
+        {
+          "label": "144p",
+          "url": "https://cfp2.jw-cdn.org/a/346552/1/o/jwb-142_E_106_r144P.3gp"
+        },
+        {
+          "label": "240p",
+          "url": "https://cfp2.jw-cdn.org/a/860bd2/1/o/jwb-142_E_106_r240P.mp4"
+        },
+        {
+          "label": "360p",
+          "url": "https://cfp2.jw-cdn.org/a/0378d24/1/o/jwb-142_E_106_r360P.mp4"
+        },
+        {
+          "label": "480p",
+          "url": "https://cfp2.jw-cdn.org/a/e83b9b/1/o/jwb-142_E_106_r480P.mp4"
+        },
+        {
+          "label": "720p",
+          "url": "https://cfp2.jw-cdn.org/a/defbbb2/1/o/jwb-142_E_106_r720P.mp4"
+        }
+      ],
+      "poster": "https://cms-imgp.jw-cdn.org/img/p/jwb-142/univ/art/jwb-142_univ_lss_106_lg.jpg",
+      "original": "https://cfp2.jw-cdn.org/a/bee01e2/1/o/jwb-142_E_06_r144P.3gp",
+      "original_title": "Benjamin and Doris Satlauer: How We Simplified to Focus on God’s Will",
+      "paired_by": "similar title"
+    },
+    {
+      "id": "pub-ohm_113_VIDEO",
+      "title": "Our History in Motion—Bible Translation (With Audio Descriptions)",
+      "ad_source": "https://cfp2.jw-cdn.org/a/fc26ac/1/o/ohm_E_113_r144P.3gp",
+      "ad_files": [
+        {
+          "label": "144p",
+          "url": "https://cfp2.jw-cdn.org/a/fc26ac/1/o/ohm_E_113_r144P.3gp"
+        },
+        {
+          "label": "240p",
+          "url": "https://cfp2.jw-cdn.org/a/22836ed/1/o/ohm_E_113_r240P.mp4"
+        },
+        {
+          "label": "360p",
+          "url": "https://cfp2.jw-cdn.org/a/dee96c1/1/o/ohm_E_113_r360P.mp4"
+        },
+        {
+          "label": "480p",
+          "url": "https://cfp2.jw-cdn.org/a/96c4855/1/o/ohm_E_113_r480P.mp4"
+        },
+        {
+          "label": "720p",
+          "url": "https://cfp2.jw-cdn.org/a/2c0b16e/1/o/ohm_E_113_r720P.mp4"
+        }
+      ],
+      "poster": "https://cms-imgp.jw-cdn.org/img/p/ohm/univ/art/ohm_univ_lss_113_lg.jpg",
+      "original": "https://cfp2.jw-cdn.org/a/170c2df/1/o/ohm_E_13_r144P.3gp",
+      "original_title": "Our History in Motion—Bible Translation",
+      "paired_by": "similar title"
+    },
+    {
+      "id": "pub-jwb-142_105_VIDEO",
+      "title": "Kenneth Godburn: Strengthen Your Confidence in Jehovah’s Loyal Love (Dan. 9:4) (With Audio Descriptions)",
+      "ad_source": "https://cfp2.jw-cdn.org/a/186ae53/1/o/jwb-142_E_105_r144P.3gp",
+      "ad_files": [
+        {
+          "label": "144p",
+          "url": "https://cfp2.jw-cdn.org/a/186ae53/1/o/jwb-142_E_105_r144P.3gp"
+        },
+        {
+          "label": "240p",
+          "url": "https://cfp2.jw-cdn.org/a/404d2ef/1/o/jwb-142_E_105_r240P.mp4"
+        },
+        {
+          "label": "360p",
+          "url": "https://cfp2.jw-cdn.org/a/ca2b4bc/1/o/jwb-142_E_105_r360P.mp4"
+        },
+        {
+          "label": "480p",
+          "url": "https://cfp2.jw-cdn.org/a/79ef64/1/o/jwb-142_E_105_r480P.mp4"
+        },
+        {
+          "label": "720p",
+          "url": "https://cfp2.jw-cdn.org/a/2b96849/1/o/jwb-142_E_105_r720P.mp4"
+        }
+      ],
+      "poster": "https://cms-imgp.jw-cdn.org/img/p/jwb-142/univ/art/jwb-142_univ_lss_105_lg.jpg",
+      "original": "https://cfp2.jw-cdn.org/a/51d725/1/o/jwb-142_E_05_r144P.3gp",
+      "original_title": "Kenneth Godburn: Strengthen Your Confidence in Jehovah’s Loyal Love (Dan. 9:4)",
+      "paired_by": "similar title"
+    }
+  ],
+  "unpaired": [
     {
       "id": "pub-sjjm_517_VIDEO",
       "title": "17. \"I Want To\" (With Audio Descriptions)",
@@ -21595,6 +21783,35 @@
         }
       ],
       "poster": "https://cms-imgp.jw-cdn.org/img/p/sjjm/univ/art/sjjm_univ_lss_555_lg.jpg",
+      "original": ""
+    },
+    {
+      "id": "pub-sjjm_649_VIDEO",
+      "title": "149. A Victory Song (With Audio Descriptions)",
+      "ad_source": "https://cfp2.jw-cdn.org/a/23516fc/1/o/sjjm_E_649_r144P.3gp",
+      "ad_files": [
+        {
+          "label": "144p",
+          "url": "https://cfp2.jw-cdn.org/a/23516fc/1/o/sjjm_E_649_r144P.3gp"
+        },
+        {
+          "label": "240p",
+          "url": "https://cfp2.jw-cdn.org/a/449a8b7/1/o/sjjm_E_649_r240P.mp4"
+        },
+        {
+          "label": "360p",
+          "url": "https://cfp2.jw-cdn.org/a/6f9a0fa/1/o/sjjm_E_649_r360P.mp4"
+        },
+        {
+          "label": "480p",
+          "url": "https://cfp2.jw-cdn.org/a/7c73e89/1/o/sjjm_E_649_r480P.mp4"
+        },
+        {
+          "label": "720p",
+          "url": "https://cfp2.jw-cdn.org/a/3a424c/1/o/sjjm_E_649_r720P.mp4"
+        }
+      ],
+      "poster": "https://cms-imgp.jw-cdn.org/img/p/sjjm/univ/art/sjjm_univ_lss_649_lg.jpg",
       "original": ""
     },
     {
@@ -21686,6 +21903,35 @@
         }
       ],
       "poster": "https://cms-imgp.jw-cdn.org/img/p/pkon/univ/art/pkon_univ_lss_135_lg.jpg",
+      "original": ""
+    },
+    {
+      "id": "pub-pk_510_VIDEO",
+      "title": "Lesson 10: Be Kind and Share (With Audio Descriptions)",
+      "ad_source": "https://cfp2.jw-cdn.org/a/c6a12d/1/o/pk_E_510_r144P.3gp",
+      "ad_files": [
+        {
+          "label": "144p",
+          "url": "https://cfp2.jw-cdn.org/a/c6a12d/1/o/pk_E_510_r144P.3gp"
+        },
+        {
+          "label": "240p",
+          "url": "https://cfp2.jw-cdn.org/a/c137ff/1/o/pk_E_510_r240P.mp4"
+        },
+        {
+          "label": "360p",
+          "url": "https://cfp2.jw-cdn.org/a/e26c229/1/o/pk_E_510_r360P.mp4"
+        },
+        {
+          "label": "480p",
+          "url": "https://cfp2.jw-cdn.org/a/40d6cbc/1/o/pk_E_510_r480P.mp4"
+        },
+        {
+          "label": "720p",
+          "url": "https://cfp2.jw-cdn.org/a/8112f7/1/o/pk_E_510_r720P.mp4"
+        }
+      ],
+      "poster": "https://cms-imgp.jw-cdn.org/img/p/pk/univ/art/pk_univ_lss_510_lg.jpg",
       "original": ""
     },
     {
@@ -22211,6 +22457,35 @@
       "original": ""
     },
     {
+      "id": "pub-osg_618_VIDEO",
+      "title": "Rise Again (With Audio Descriptions)",
+      "ad_source": "https://cfp2.jw-cdn.org/a/4e9577/1/o/osg_E_618_r144P.3gp",
+      "ad_files": [
+        {
+          "label": "144p",
+          "url": "https://cfp2.jw-cdn.org/a/4e9577/1/o/osg_E_618_r144P.3gp"
+        },
+        {
+          "label": "240p",
+          "url": "https://cfp2.jw-cdn.org/a/b95e718/1/o/osg_E_618_r240P.mp4"
+        },
+        {
+          "label": "360p",
+          "url": "https://cfp2.jw-cdn.org/a/f6bfc9e/1/o/osg_E_618_r360P.mp4"
+        },
+        {
+          "label": "480p",
+          "url": "https://cfp2.jw-cdn.org/a/a76c1c5/1/o/osg_E_618_r480P.mp4"
+        },
+        {
+          "label": "720p",
+          "url": "https://cfp2.jw-cdn.org/a/0067e1/1/o/osg_E_618_r720P.mp4"
+        }
+      ],
+      "poster": "https://cms-imgp.jw-cdn.org/img/p/osg/univ/art/osg_univ_lss_618_lg.jpg",
+      "original": ""
+    },
+    {
       "id": "pub-osg_626_VIDEO",
       "title": "I Trust In You (With Audio Descriptions)",
       "ad_source": "https://cfp2.jw-cdn.org/a/f7aa8f/1/o/osg_E_626_r144P.3gp",
@@ -22704,6 +22979,35 @@
       "original": ""
     },
     {
+      "id": "pub-sjjm_584_VIDEO",
+      "title": "84. Reaching Out (With Audio Descriptions)",
+      "ad_source": "https://cfp2.jw-cdn.org/a/3a166dd/2/o/sjjm_E_584_r144P.3gp",
+      "ad_files": [
+        {
+          "label": "144p",
+          "url": "https://cfp2.jw-cdn.org/a/3a166dd/2/o/sjjm_E_584_r144P.3gp"
+        },
+        {
+          "label": "240p",
+          "url": "https://cfp2.jw-cdn.org/a/0bcef7/2/o/sjjm_E_584_r240P.mp4"
+        },
+        {
+          "label": "360p",
+          "url": "https://cfp2.jw-cdn.org/a/a41cbd/2/o/sjjm_E_584_r360P.mp4"
+        },
+        {
+          "label": "480p",
+          "url": "https://cfp2.jw-cdn.org/a/beb818/2/o/sjjm_E_584_r480P.mp4"
+        },
+        {
+          "label": "720p",
+          "url": "https://cfp2.jw-cdn.org/a/24b231/2/o/sjjm_E_584_r720P.mp4"
+        }
+      ],
+      "poster": "https://cms-imgp.jw-cdn.org/img/p/sjjm/univ/art/sjjm_univ_lss_584_lg.jpg",
+      "original": ""
+    },
+    {
       "id": "pub-sjjm_605_VIDEO",
       "title": "105. \"God Is Love\" (With Audio Descriptions)",
       "ad_source": "https://cfp2.jw-cdn.org/a/52b96f6/1/o/sjjm_E_605_r144P.3gp",
@@ -22817,35 +23121,6 @@
         }
       ],
       "poster": "https://cms-imgp.jw-cdn.org/img/p/sjjm/univ/art/sjjm_univ_lss_632_lg.jpg",
-      "original": ""
-    },
-    {
-      "id": "pub-sjjm_649_VIDEO",
-      "title": "149. A Victory Song (With Audio Descriptions)",
-      "ad_source": "https://cfp2.jw-cdn.org/a/23516fc/1/o/sjjm_E_649_r144P.3gp",
-      "ad_files": [
-        {
-          "label": "144p",
-          "url": "https://cfp2.jw-cdn.org/a/23516fc/1/o/sjjm_E_649_r144P.3gp"
-        },
-        {
-          "label": "240p",
-          "url": "https://cfp2.jw-cdn.org/a/449a8b7/1/o/sjjm_E_649_r240P.mp4"
-        },
-        {
-          "label": "360p",
-          "url": "https://cfp2.jw-cdn.org/a/6f9a0fa/1/o/sjjm_E_649_r360P.mp4"
-        },
-        {
-          "label": "480p",
-          "url": "https://cfp2.jw-cdn.org/a/7c73e89/1/o/sjjm_E_649_r480P.mp4"
-        },
-        {
-          "label": "720p",
-          "url": "https://cfp2.jw-cdn.org/a/3a424c/1/o/sjjm_E_649_r720P.mp4"
-        }
-      ],
-      "poster": "https://cms-imgp.jw-cdn.org/img/p/sjjm/univ/art/sjjm_univ_lss_649_lg.jpg",
       "original": ""
     },
     {
