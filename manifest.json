@@ -21699,93 +21699,6 @@
   ],
   "unpaired": [
     {
-      "id": "pub-sjjm_517_VIDEO",
-      "title": "17. \"I Want To\" (With Audio Descriptions)",
-      "ad_source": "https://cfp2.jw-cdn.org/a/90c303/2/o/sjjm_E_517_r144P.3gp",
-      "ad_files": [
-        {
-          "label": "144p",
-          "url": "https://cfp2.jw-cdn.org/a/90c303/2/o/sjjm_E_517_r144P.3gp"
-        },
-        {
-          "label": "240p",
-          "url": "https://cfp2.jw-cdn.org/a/f34f34b/2/o/sjjm_E_517_r240P.mp4"
-        },
-        {
-          "label": "360p",
-          "url": "https://cfp2.jw-cdn.org/a/eaa6d7/2/o/sjjm_E_517_r360P.mp4"
-        },
-        {
-          "label": "480p",
-          "url": "https://cfp2.jw-cdn.org/a/3c7d73/2/o/sjjm_E_517_r480P.mp4"
-        },
-        {
-          "label": "720p",
-          "url": "https://cfp2.jw-cdn.org/a/e6755d/2/o/sjjm_E_517_r720P.mp4"
-        }
-      ],
-      "poster": "https://cms-imgp.jw-cdn.org/img/p/sjjm/univ/art/sjjm_univ_lss_517_lg.jpg",
-      "original": ""
-    },
-    {
-      "id": "pub-pk_523_VIDEO",
-      "title": "Lesson 23: Jehovah's Name (With Audio Descriptions)",
-      "ad_source": "https://cfp2.jw-cdn.org/a/ddd7902/1/o/pk_E_523_r144P.3gp",
-      "ad_files": [
-        {
-          "label": "144p",
-          "url": "https://cfp2.jw-cdn.org/a/ddd7902/1/o/pk_E_523_r144P.3gp"
-        },
-        {
-          "label": "240p",
-          "url": "https://cfp2.jw-cdn.org/a/7fccc4f/1/o/pk_E_523_r240P.mp4"
-        },
-        {
-          "label": "360p",
-          "url": "https://cfp2.jw-cdn.org/a/49cb1ec/1/o/pk_E_523_r360P.mp4"
-        },
-        {
-          "label": "480p",
-          "url": "https://cfp2.jw-cdn.org/a/a28adbb/1/o/pk_E_523_r480P.mp4"
-        },
-        {
-          "label": "720p",
-          "url": "https://cfp2.jw-cdn.org/a/4fc89e/1/o/pk_E_523_r720P.mp4"
-        }
-      ],
-      "poster": "https://cms-imgp.jw-cdn.org/img/p/pk/univ/art/pk_univ_lss_523_lg.jpg",
-      "original": ""
-    },
-    {
-      "id": "pub-sjjm_555_VIDEO",
-      "title": "55. Fear Them Not! (With Audio Descriptions)",
-      "ad_source": "https://cfp2.jw-cdn.org/a/09a38c/1/o/sjjm_E_555_r144P.3gp",
-      "ad_files": [
-        {
-          "label": "144p",
-          "url": "https://cfp2.jw-cdn.org/a/09a38c/1/o/sjjm_E_555_r144P.3gp"
-        },
-        {
-          "label": "240p",
-          "url": "https://cfp2.jw-cdn.org/a/dec046/1/o/sjjm_E_555_r240P.mp4"
-        },
-        {
-          "label": "360p",
-          "url": "https://cfp2.jw-cdn.org/a/90357b/1/o/sjjm_E_555_r360P.mp4"
-        },
-        {
-          "label": "480p",
-          "url": "https://cfp2.jw-cdn.org/a/e9e7eb/1/o/sjjm_E_555_r480P.mp4"
-        },
-        {
-          "label": "720p",
-          "url": "https://cfp2.jw-cdn.org/a/80207d/1/o/sjjm_E_555_r720P.mp4"
-        }
-      ],
-      "poster": "https://cms-imgp.jw-cdn.org/img/p/sjjm/univ/art/sjjm_univ_lss_555_lg.jpg",
-      "original": ""
-    },
-    {
       "id": "pub-sjjm_649_VIDEO",
       "title": "149. A Victory Song (With Audio Descriptions)",
       "ad_source": "https://cfp2.jw-cdn.org/a/23516fc/1/o/sjjm_E_649_r144P.3gp",
@@ -21812,6 +21725,64 @@
         }
       ],
       "poster": "https://cms-imgp.jw-cdn.org/img/p/sjjm/univ/art/sjjm_univ_lss_649_lg.jpg",
+      "original": ""
+    },
+    {
+      "id": "pub-pk_510_VIDEO",
+      "title": "Lesson 10: Be Kind and Share (With Audio Descriptions)",
+      "ad_source": "https://cfp2.jw-cdn.org/a/c6a12d/1/o/pk_E_510_r144P.3gp",
+      "ad_files": [
+        {
+          "label": "144p",
+          "url": "https://cfp2.jw-cdn.org/a/c6a12d/1/o/pk_E_510_r144P.3gp"
+        },
+        {
+          "label": "240p",
+          "url": "https://cfp2.jw-cdn.org/a/c137ff/1/o/pk_E_510_r240P.mp4"
+        },
+        {
+          "label": "360p",
+          "url": "https://cfp2.jw-cdn.org/a/e26c229/1/o/pk_E_510_r360P.mp4"
+        },
+        {
+          "label": "480p",
+          "url": "https://cfp2.jw-cdn.org/a/40d6cbc/1/o/pk_E_510_r480P.mp4"
+        },
+        {
+          "label": "720p",
+          "url": "https://cfp2.jw-cdn.org/a/8112f7/1/o/pk_E_510_r720P.mp4"
+        }
+      ],
+      "poster": "https://cms-imgp.jw-cdn.org/img/p/pk/univ/art/pk_univ_lss_510_lg.jpg",
+      "original": ""
+    },
+    {
+      "id": "pub-sjjm_654_VIDEO",
+      "title": "154. Unfailing Love (With Audio Descriptions)",
+      "ad_source": "https://cfp2.jw-cdn.org/a/cfb354/1/o/sjjm_E_654_r144P.3gp",
+      "ad_files": [
+        {
+          "label": "144p",
+          "url": "https://cfp2.jw-cdn.org/a/cfb354/1/o/sjjm_E_654_r144P.3gp"
+        },
+        {
+          "label": "240p",
+          "url": "https://cfp2.jw-cdn.org/a/35bfddf/1/o/sjjm_E_654_r240P.mp4"
+        },
+        {
+          "label": "360p",
+          "url": "https://cfp2.jw-cdn.org/a/43be82/1/o/sjjm_E_654_r360P.mp4"
+        },
+        {
+          "label": "480p",
+          "url": "https://cfp2.jw-cdn.org/a/3f0394/1/o/sjjm_E_654_r480P.mp4"
+        },
+        {
+          "label": "720p",
+          "url": "https://cfp2.jw-cdn.org/a/836397/1/o/sjjm_E_654_r720P.mp4"
+        }
+      ],
+      "poster": "https://cms-imgp.jw-cdn.org/img/p/sjjm/univ/art/sjjm_univ_lss_654_lg.jpg",
       "original": ""
     },
     {
@@ -21903,35 +21874,6 @@
         }
       ],
       "poster": "https://cms-imgp.jw-cdn.org/img/p/pkon/univ/art/pkon_univ_lss_135_lg.jpg",
-      "original": ""
-    },
-    {
-      "id": "pub-pk_510_VIDEO",
-      "title": "Lesson 10: Be Kind and Share (With Audio Descriptions)",
-      "ad_source": "https://cfp2.jw-cdn.org/a/c6a12d/1/o/pk_E_510_r144P.3gp",
-      "ad_files": [
-        {
-          "label": "144p",
-          "url": "https://cfp2.jw-cdn.org/a/c6a12d/1/o/pk_E_510_r144P.3gp"
-        },
-        {
-          "label": "240p",
-          "url": "https://cfp2.jw-cdn.org/a/c137ff/1/o/pk_E_510_r240P.mp4"
-        },
-        {
-          "label": "360p",
-          "url": "https://cfp2.jw-cdn.org/a/e26c229/1/o/pk_E_510_r360P.mp4"
-        },
-        {
-          "label": "480p",
-          "url": "https://cfp2.jw-cdn.org/a/40d6cbc/1/o/pk_E_510_r480P.mp4"
-        },
-        {
-          "label": "720p",
-          "url": "https://cfp2.jw-cdn.org/a/8112f7/1/o/pk_E_510_r720P.mp4"
-        }
-      ],
-      "poster": "https://cms-imgp.jw-cdn.org/img/p/pk/univ/art/pk_univ_lss_510_lg.jpg",
       "original": ""
     },
     {
@@ -22222,6 +22164,35 @@
         }
       ],
       "poster": "https://cms-imgp.jw-cdn.org/img/p/pk/univ/art/pk_univ_lss_526_lg.jpg",
+      "original": ""
+    },
+    {
+      "id": "pub-pk_523_VIDEO",
+      "title": "Lesson 23: Jehovah's Name (With Audio Descriptions)",
+      "ad_source": "https://cfp2.jw-cdn.org/a/ddd7902/1/o/pk_E_523_r144P.3gp",
+      "ad_files": [
+        {
+          "label": "144p",
+          "url": "https://cfp2.jw-cdn.org/a/ddd7902/1/o/pk_E_523_r144P.3gp"
+        },
+        {
+          "label": "240p",
+          "url": "https://cfp2.jw-cdn.org/a/7fccc4f/1/o/pk_E_523_r240P.mp4"
+        },
+        {
+          "label": "360p",
+          "url": "https://cfp2.jw-cdn.org/a/49cb1ec/1/o/pk_E_523_r360P.mp4"
+        },
+        {
+          "label": "480p",
+          "url": "https://cfp2.jw-cdn.org/a/a28adbb/1/o/pk_E_523_r480P.mp4"
+        },
+        {
+          "label": "720p",
+          "url": "https://cfp2.jw-cdn.org/a/4fc89e/1/o/pk_E_523_r720P.mp4"
+        }
+      ],
+      "poster": "https://cms-imgp.jw-cdn.org/img/p/pk/univ/art/pk_univ_lss_523_lg.jpg",
       "original": ""
     },
     {
@@ -22863,6 +22834,35 @@
       "original": ""
     },
     {
+      "id": "pub-sjjm_517_VIDEO",
+      "title": "17. \"I Want To\" (With Audio Descriptions)",
+      "ad_source": "https://cfp2.jw-cdn.org/a/90c303/2/o/sjjm_E_517_r144P.3gp",
+      "ad_files": [
+        {
+          "label": "144p",
+          "url": "https://cfp2.jw-cdn.org/a/90c303/2/o/sjjm_E_517_r144P.3gp"
+        },
+        {
+          "label": "240p",
+          "url": "https://cfp2.jw-cdn.org/a/f34f34b/2/o/sjjm_E_517_r240P.mp4"
+        },
+        {
+          "label": "360p",
+          "url": "https://cfp2.jw-cdn.org/a/eaa6d7/2/o/sjjm_E_517_r360P.mp4"
+        },
+        {
+          "label": "480p",
+          "url": "https://cfp2.jw-cdn.org/a/3c7d73/2/o/sjjm_E_517_r480P.mp4"
+        },
+        {
+          "label": "720p",
+          "url": "https://cfp2.jw-cdn.org/a/e6755d/2/o/sjjm_E_517_r720P.mp4"
+        }
+      ],
+      "poster": "https://cms-imgp.jw-cdn.org/img/p/sjjm/univ/art/sjjm_univ_lss_517_lg.jpg",
+      "original": ""
+    },
+    {
       "id": "pub-sjjm_554_VIDEO",
       "title": "54. \"This Is the Way\" (With Audio Descriptions)",
       "ad_source": "https://cfp2.jw-cdn.org/a/56879e/2/o/sjjm_E_554_r144P.3gp",
@@ -22889,6 +22889,35 @@
         }
       ],
       "poster": "https://cms-imgp.jw-cdn.org/img/p/sjjm/univ/art/sjjm_univ_lss_554_lg.jpg",
+      "original": ""
+    },
+    {
+      "id": "pub-sjjm_555_VIDEO",
+      "title": "55. Fear Them Not! (With Audio Descriptions)",
+      "ad_source": "https://cfp2.jw-cdn.org/a/09a38c/1/o/sjjm_E_555_r144P.3gp",
+      "ad_files": [
+        {
+          "label": "144p",
+          "url": "https://cfp2.jw-cdn.org/a/09a38c/1/o/sjjm_E_555_r144P.3gp"
+        },
+        {
+          "label": "240p",
+          "url": "https://cfp2.jw-cdn.org/a/dec046/1/o/sjjm_E_555_r240P.mp4"
+        },
+        {
+          "label": "360p",
+          "url": "https://cfp2.jw-cdn.org/a/90357b/1/o/sjjm_E_555_r360P.mp4"
+        },
+        {
+          "label": "480p",
+          "url": "https://cfp2.jw-cdn.org/a/e9e7eb/1/o/sjjm_E_555_r480P.mp4"
+        },
+        {
+          "label": "720p",
+          "url": "https://cfp2.jw-cdn.org/a/80207d/1/o/sjjm_E_555_r720P.mp4"
+        }
+      ],
+      "poster": "https://cms-imgp.jw-cdn.org/img/p/sjjm/univ/art/sjjm_univ_lss_555_lg.jpg",
       "original": ""
     },
     {
@@ -23150,35 +23179,6 @@
         }
       ],
       "poster": "https://cms-imgp.jw-cdn.org/img/p/sjjm/univ/art/sjjm_univ_lss_651_lg.jpg",
-      "original": ""
-    },
-    {
-      "id": "pub-sjjm_654_VIDEO",
-      "title": "154. Unfailing Love (With Audio Descriptions)",
-      "ad_source": "https://cfp2.jw-cdn.org/a/cfb354/1/o/sjjm_E_654_r144P.3gp",
-      "ad_files": [
-        {
-          "label": "144p",
-          "url": "https://cfp2.jw-cdn.org/a/cfb354/1/o/sjjm_E_654_r144P.3gp"
-        },
-        {
-          "label": "240p",
-          "url": "https://cfp2.jw-cdn.org/a/35bfddf/1/o/sjjm_E_654_r240P.mp4"
-        },
-        {
-          "label": "360p",
-          "url": "https://cfp2.jw-cdn.org/a/43be82/1/o/sjjm_E_654_r360P.mp4"
-        },
-        {
-          "label": "480p",
-          "url": "https://cfp2.jw-cdn.org/a/3f0394/1/o/sjjm_E_654_r480P.mp4"
-        },
-        {
-          "label": "720p",
-          "url": "https://cfp2.jw-cdn.org/a/836397/1/o/sjjm_E_654_r720P.mp4"
-        }
-      ],
-      "poster": "https://cms-imgp.jw-cdn.org/img/p/sjjm/univ/art/sjjm_univ_lss_654_lg.jpg",
       "original": ""
     },
     {
